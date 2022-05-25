@@ -1,0 +1,8 @@
+{
+    "name": "WMD_project2022",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Tom",
+    "contributors": [],
+    "dependencies": {}
+}
